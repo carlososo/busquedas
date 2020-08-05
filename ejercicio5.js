@@ -32,9 +32,9 @@ class ListaContactos {
     }
 }
 
-var contacto1 = new Contacto('Carlos', 'Osorio', '5517983022');
-var contacto2 = new Contacto('Felipe', 'Cervantes', '5517983022');
-var contacto3 = new Contacto('Sandra', 'Lara', '5517983022');
+var contacto1 = new Contacto('Carlos', 'Osorio', '##########');
+var contacto2 = new Contacto('Felipe', 'Cervantes', '##########');
+var contacto3 = new Contacto('Sandra', 'Lara', '##########');
 
 // console.log(contacto1);
 // console.log(contacto2);
